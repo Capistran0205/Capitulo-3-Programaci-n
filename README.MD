@@ -1,5 +1,5 @@
 # Capitulo-3-Programación
-Carga de ejemplos y ejercicios asociados al Capitulo 2 de Deitel
+Carga de ejemplos y ejercicios asociados al Capitulo 3 de Deitel
 
 ## De qué trata
  
